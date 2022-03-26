@@ -38,5 +38,13 @@ jobs:
           echo is java installed
           java -version
           echo
+          echo is git installed
+          git --version
+          echo
+          echo what about build tools
+          mvn --version
+          gradle --version
+          ant -version
+          echo
 
           
