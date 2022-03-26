@@ -46,5 +46,9 @@ jobs:
           gradle --version
           ant -version
           echo
+          echo What environment variable  are avaible?
+          env
+
+
 
           
