@@ -34,3 +34,4 @@ jobs:
         run: |
           echo Nothing to see in rhe multiline script
           ls -a
+          sh ./github-actions-script.sh  
